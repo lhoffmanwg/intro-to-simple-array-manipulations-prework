@@ -30,4 +30,6 @@ def using_insert(array, new_element)
   array.insert(4, new_element)
 end  
 
-def 
+def using_delete(array, string)
+  
+end  
