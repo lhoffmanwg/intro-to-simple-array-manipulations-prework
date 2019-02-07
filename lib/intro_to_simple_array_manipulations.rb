@@ -31,5 +31,5 @@ def using_insert(array, new_element)
 end  
 
 def using_delete(array, string)
-  
+  array.
 end  
