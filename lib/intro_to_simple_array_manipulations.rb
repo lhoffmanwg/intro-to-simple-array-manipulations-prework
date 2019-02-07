@@ -39,7 +39,7 @@ def using_delete_at(array, integer)
 end
 
 def using_uniq(array)
-  array.uniq(array)
+  array.uniq
 end  
 
 def using_flatten(array)
